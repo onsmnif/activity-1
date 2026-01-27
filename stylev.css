@@ -1,0 +1,17 @@
+
+
+input [type="email"]:focus {
+    border: 10px solid rgb(17, 0, 255);
+}
+h1{
+    color:aquamarine;
+}
+input[type="submit"]:hover {
+background-color: #444;
+color: lawngreen;
+}
+label [for="name:"] {
+    font-weight: bold;
+}
+
+
